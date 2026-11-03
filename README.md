@@ -22,7 +22,7 @@ My contribution to this academic project included:
 - Database design and management.
 
 ## 5. Academic Background
-**Developer:** Salah Al-Din Emad Saeed Labbad
+**Developer:** Salah Al-Din Emad Saed Labbad
 
 **Degree:** Bachelor's Degree in Computer Science
 
